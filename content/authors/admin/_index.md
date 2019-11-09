@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sourajyoti Bose
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Major in Computer Science(specialising in Cybersecurity)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: New York University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Application Security
+- Cryptography
+- Devops and DevSecOps
 
 education:
   courses:
