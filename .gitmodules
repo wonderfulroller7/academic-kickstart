@@ -3,5 +3,5 @@
 	url = https://github.com/gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = D:/WebSite/academic-kickstart/public
-	branch = https://github.com/wonderfulroller7/wonderfulroller7.github.io.git
+	url = https://github.com/wonderfulroller7/wonderfulroller7.github.io.git
+	branch = master
