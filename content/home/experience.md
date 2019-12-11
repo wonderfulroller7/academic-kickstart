@@ -23,7 +23,12 @@ date_format = "Jan 2006"
   location = "New York City, New York"
   date_start = "2019-06-03"
   date_end = "2019-08-23"
-  description=""" 
+  description="""
+  
+  * Build a storage system upon a Box api.
+  * Integrated the application with OneLogin IAM systems.
+  * Setup the infrastructure on Terraform.
+  * Designed a front-end using Angular framework.
   """
 
 [[experience]]
@@ -37,8 +42,11 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Analysing requirements for KeyBank, NAB with business analysts to understand the security challenges of deploying the 
-  * Modelling
-  * Deploying
+  * Analysing requirements for KeyBank, NAB with business analysts to understand the security challenges of deploying automation solutions.
+  * Deploying a new Jenkins 2 server which used pipeline with Blue Ocean. Wrote groovy scripts to make Jenkins services auto-deployable from version controls like Subversion.
+  * Trained a team of 6 and set guidelines on how to proceed towards automating DevOps and QA.
+  * Programmed using Cucumber, Gherkin to enable business analysts to generate scripts using simple English language and not relying on technical jargon.
+  * Programmed and extended the Automation Framework to have WebServices automated to send over a million SOAP requests and complete Day 0 setups within an hour.
   """
 
 [[experience]]
@@ -60,6 +68,19 @@ date_format = "Jan 2006"
   * Worked on developing a Java based solution that used to automate setup of Day 0 setup of Oracle Banking Software at the banks.
   * Modelling and programmed a new Automation Portal using the M(MongoDb)E(Express)A(AngularJS)N(NodeJS) stack.
   * Introduced Maven build tool migrating from Ant.
+  """
+  
+[[experience]]
+  title = "Lecturer"
+  company = "Indian School of Ethical Hacking"
+  company_url = "https://www.isoeh.com/"
+  location = "Kolkata, India"
+  date_start = "2015-05-31"
+  date_end = "2014-06-01"
+  description = """
+  
+  * Teach secure Java and Android courses to more than 200 students.
+  * Used to train professionals while I was in school.
   """
 
 +++
